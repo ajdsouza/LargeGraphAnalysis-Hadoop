@@ -1,5 +1,5 @@
-Large Graph Analysis Using HDFS, Hadoop and Java
-------------------------------------------------
+Large Graph Analysis Using HDFS, Hadoop and Java - MapReduce
+------------------------------------------------------------
 
 A MapReduce program to calculate the sum of the weights of all incoming edges for each node in the graph.
  - Loaded two graph files into HDFS. 
@@ -76,4 +76,4 @@ argument) and output directory on HDFS (the second argument)
 3) remove the output directory on HDFS.
 
 
-- Implemented in Java on Hadoop, Using HDFS
+- MapReduce Implemented in Java on Hadoop, Using HDFS
